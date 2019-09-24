@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 9f5e73f5db242e4488d44cda6b6da306
+timeCreated: 1508885919
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Ceiling
+    100002: Chairs
+    100004: Cylinders
+    100006: DoorFrame
+    100008: DoorFrame.011
+    100010: elevator
+    100012: Ground
+    100014: //RootNode
+    100016: Pathways
+    100018: Plant boxes
+    100020: Stairs
+    100022: Stairs.003
+    100024: Stairs.005
+    100026: Stairs.009
+    100028: statue
+    100030: Text
+    100032: walls
+    400000: Ceiling
+    400002: Chairs
+    400004: Cylinders
+    400006: DoorFrame
+    400008: DoorFrame.011
+    400010: elevator
+    400012: Ground
+    400014: //RootNode
+    400016: Pathways
+    400018: Plant boxes
+    400020: Stairs
+    400022: Stairs.003
+    400024: Stairs.005
+    400026: Stairs.009
+    400028: statue
+    400030: Text
+    400032: walls
+    2300000: Ceiling
+    2300002: Chairs
+    2300004: Cylinders
+    2300006: DoorFrame
+    2300008: DoorFrame.011
+    2300010: elevator
+    2300012: Ground
+    2300014: Pathways
+    2300016: Plant boxes
+    2300018: Stairs
+    2300020: Stairs.003
+    2300022: Stairs.005
+    2300024: Stairs.009
+    2300026: statue
+    2300028: Text
+    2300030: walls
+    3300000: Ceiling
+    3300002: Chairs
+    3300004: Cylinders
+    3300006: DoorFrame
+    3300008: DoorFrame.011
+    3300010: elevator
+    3300012: Ground
+    3300014: Pathways
+    3300016: Plant boxes
+    3300018: Stairs
+    3300020: Stairs.003
+    3300022: Stairs.005
+    3300024: Stairs.009
+    3300026: statue
+    3300028: Text
+    3300030: walls
+    4300000: DoorFrame.011
+    4300002: Ceiling
+    4300004: Stairs.009
+    4300006: Cylinders
+    4300008: elevator
+    4300010: Stairs.005
+    4300012: DoorFrame
+    4300014: Chairs
+    4300016: Stairs.003
+    4300018: Pathways
+    4300020: walls
+    4300022: statue
+    4300024: Plant boxes
+    4300026: Text
+    4300028: Stairs
+    4300030: Ground
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
